@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="mode_choose">单机游戏难度选择</string>
+    <string name="easy">简单模式</string>
+    <string name="medium">普通模式</string>
+    <string name="hard">困难模式</string>
+</resources>
